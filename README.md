@@ -1,7 +1,7 @@
 # WROT
 Lightweight **Wrapper for Removing Office Tool**. Only for Windows. Requires VBScript support in system.
 
-This only wrapper for Microsoft scripts: [Official Microsoft Repository (scripts sources)](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/tree/master/Office-ProPlus-Deployment/Remove-PreviousOfficeInstalls).
+It only wrapper for Microsoft scripts: [Official Microsoft Repository (scripts sources)](https://github.com/OfficeDev/Office-IT-Pro-Deployment-Scripts/tree/master/Office-ProPlus-Deployment/Remove-PreviousOfficeInstalls).
 
 This scripts completely remove ALL MS Office installed products and their files.
 
