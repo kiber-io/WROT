@@ -7,6 +7,8 @@ This scripts completely remove ALL MS Office installed products and their files.
 
 Very usefull when you cannot install new version of Office because of error **"You have already installed Office"**
 
+![gif](https://github.com/kiber-io/WROT/blob/master/gif/wrot.gif?raw=true)
+
 ### Using WROT with python
 ```
 python WROT.py
