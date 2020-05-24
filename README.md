@@ -16,7 +16,7 @@ python WROT.py
 The script will request an elevate by using UAC and open in a separate window.
 
 ### Using WROT without python installed
-You can use WROT without Python. Just one compile Python sources to *.exe file using [pyinstaller](https://www.pyinstaller.org/)
+You can use WROT without Python. Just ones compile Python sources to *.exe file using [pyinstaller](https://www.pyinstaller.org/).
 ```
 python -m pip install pyinstaller
 pyinstaller -F WROT.py
